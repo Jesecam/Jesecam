@@ -13,7 +13,7 @@ Hello, I'm Jessica! I'm an interaction designer with a knack for ... My journey 
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about, **JavaScript**, and **...**.
 - 📫 How to reach me: [silentbob@example.com](silentbob@example.com)
-- ⚡ Fun fact: I have no fun facts 
+- ⚡ Fun fact: I am not Silent Bob
 - ⚡ 
 
 ## 📚 My Writing & Content
