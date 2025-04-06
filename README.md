@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-
+<!--
 **Jesecam/Jesecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ## About Me 😄
-
+-->
 Hello, I'm Jessica! I'm an interaction designer with a knack for ... My journey in tech spans ..... I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
