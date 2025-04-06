@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Jesecam/Jesecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,7 @@ Hello, I'm Jessica! I'm an interaction designer with a knack for ... My journey 
 - 💬 Ask me about, **JavaScript**, and **...**.
 - 📫 How to reach me: [silentbob@example.com](silentbob@example.com)
 - ⚡ Fun fact: I have no fun facts 
+- ⚡ 
 
 ## 📚 My Writing & Content
 
@@ -37,4 +38,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/silentBob
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </p>
 
--->
+
